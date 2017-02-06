@@ -1,0 +1,2 @@
+primary: {linux_path: null, mac_path: null, windows_path: 'S:\projects'}
+secondary: {linux_path: null, mac_path: null, windows_path: 'E:\sgtk_workspace'}
